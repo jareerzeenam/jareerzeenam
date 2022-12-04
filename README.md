@@ -1,4 +1,4 @@
-# Hey, I'm Jareer 👋
+# Hey, I'm Jareer 👋 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50">
 
 I'm a software developer from Colombo, Sri Lanka. I create high standard softwares and robust web applications.
 
