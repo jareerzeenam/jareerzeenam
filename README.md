@@ -8,8 +8,6 @@ I'm a software developer from Colombo, Sri Lanka. I create high standard softwar
   <a href="https://twitter.com/Jareer28" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
-## Skills
-
 ```php
 <?php
 
