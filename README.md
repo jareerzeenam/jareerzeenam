@@ -1,6 +1,6 @@
 # Hey, I'm Jareer 👋
 
-I'm a software developer from Colombo, Sri Lanka. I create high standard robust web applications and mobile applications APIs.
+I'm a software developer from Colombo, Sri Lanka. I create high standard softwares and robust web applications.
 
 <p>
   <a href="https://www.linkedin.com/in/jareer-zeenam/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -9,12 +9,6 @@ I'm a software developer from Colombo, Sri Lanka. I create high standard robust 
 </p>
 
 ## Skills
-- 👨‍💻 Programming & Web Tools - HTML, CSS, Sass, PHP, Python, JavaScript ES6, GraphQL.
-- 📦 Frameworks - Laravel, Vue.js, Serverless, Node.js, Bootstrap, Tailwind, jQuery, Ajax.
-- 💾 Databases - MySQL, MongoDB, DynamoDB.
-- 📔 Services & Tools - Git, Bitbucket, AWS, Docker, WordPress, PHPcbf, ESLint, Firebase, Heroku.
-- 🌐 Other Software Applications - Microsoft Office packages, Adobe Photoshop, Illustrator, Figma, Zeplin.
-
 
 ```php
 <?php
@@ -56,12 +50,16 @@ class About extends Me
             Git::class,
             Docker::class,
             WordPress::class,
+            Jquery::class,
+            Ajax::class,
             Serverless::class,
-            jQuery::class,
             Firebase::class,
             Stripe::class,
             Figma::class,
-            AWS::class,
+            PhotoShop::class,
+            Illustrator::class,
+            Python::class,
+            Aws::class,
         ];
     }
 
