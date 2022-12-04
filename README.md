@@ -53,11 +53,11 @@ class About extends Me
             Serverless::class,
             Firebase::class,
             Stripe::class,
+            Python::class,
+            Aws::class,
             Figma::class,
             PhotoShop::class,
             Illustrator::class,
-            Python::class,
-            Aws::class,
         ];
     }
 
