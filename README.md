@@ -2,8 +2,7 @@
 
 I'm a software developer from Colombo, Sri Lanka. I create high standard softwares and robust web applications.
 
-Software Engineering Graduate from [Solent University](https://www.solent.ac.uk/courses/undergraduate/software-engineering-bsc) - (First Class) 👨‍🎓
-
+👨‍🎓 Software Engineering Graduate from [Solent University](https://www.solent.ac.uk/courses/undergraduate/software-engineering-bsc) - (First Class)
 <p>
   <a href="https://www.linkedin.com/in/jareer-zeenam/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/jareerzeenam" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
@@ -12,7 +11,7 @@ Software Engineering Graduate from [Solent University](https://www.solent.ac.uk/
 
 ###  A little more about me...  
 
-```php
+<!-- ```php
 <?php
 
 namespace Jareer;
@@ -70,4 +69,24 @@ class About extends Me
         return 'To be a Software Solution Architect.';
     }
 }
+``` -->
+
+``` js
+const jareer = {
+    pronouns: "He" | "Him",
+    code: ["PHP", "Javascript", "Python"],
+    askMeAbout: ["Web Development", "tech", "API"],
+    technologies: {
+        backEnd: {
+            php: ["Laravel", "Symfony"],
+            js: ["Node", "Express"],
+            queryLanguages: ["SQL", "GraphQL"],
+            databases: ["Mongo", "MySql", "SQlite"]
+        }
+    },
+    architecture: ["Serverless", "Progressive Web Applications", "Single Page Applications"],
+    currentFocus: ["Micro Services", "NodeJs", "GraphQL", "Vue3"],
+    otherSkills: ["AWS", "Docker", "Git", "WordPress", "Jquery", "Ajax", "Firebase", "Figma"]
+};
+
 ```
