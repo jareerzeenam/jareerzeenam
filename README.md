@@ -10,10 +10,10 @@ I'm a software developer from Colombo, Sri Lanka. I create high standard robust 
 🌐 Other Software Applications - Microsoft Office packages, Adobe Photoshop, Illustrator, Figma, Zeplin.
 
 
-```
+```php
 <?php
 
-namespace AshBaker;
+namespace Jareer;
 
 class About extends Me
 {
@@ -27,23 +27,41 @@ class About extends Me
         ];
     }
 
-    public function getDailyKnowledge(): array
+    public function getDailySkills(): array
     {
         return [
             Php::class,
-            Javascript::class,
             Laravel::class,
             Vuejs::class,
-            Angular::class,
-            ReactNative::class,
+            JavaScript::class,
+            Nodejs::class,
+            GraphQl::class,
+            MySql::class,
+            MongoDB::class,
+            Bootstrap::class,
             TailwindCss::class,
-            Aws::class,
+            Sass::class,
+        ];
+    }
+
+    public function getOtherSkills(): array
+    {
+        return [
+            Git::class,
+            Docker::class,
+            WordPress::class,
+            Serverless::class,
+            jQuery::class,
+            Firebase::class,
+            Stripe::class,
+            Figma::class,
+            AWS::class,
         ];
     }
 
     public function getFutureGoal(): string
     {
-        return 'To contribute to open source.';
+        return 'To be a Software Solution Architect.';
     }
 }
 ```
