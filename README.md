@@ -74,8 +74,12 @@ class About extends Me
 ``` js
 const jareer = {
     pronouns: "He" | "Him",
+    workplace: {
+        company: "Adventus.io",
+        position: "Full Stack Developer",
+    },
     code: ["PHP", "Javascript", "Python"],
-    askMeAbout: ["Web Development", "tech", "API"],
+    askMeAbout: ["Web Development", "API", "Tech", "Automation", "IOT", "AI"],
     technologies: {
         frontEnd: {
             frameworks: ["Vue", "React"],
@@ -92,7 +96,7 @@ const jareer = {
     },
     architecture: ["Serverless", "Progressive Web Applications", "Single Page Applications"],
     currentFocus: ["Micro Services", "NodeJs", "GraphQL", "Vue3"],
-    otherSkills: ["AWS", "Docker", "Git", "WordPress", "Jquery", "Ajax", "Firebase", "Figma"]
+    otherSkills: ["AWS", "Docker", "Git", "WordPress", "Jquery", "Ajax", "Firebase", "Stripe", "Figma"]
 };
 
 ```
