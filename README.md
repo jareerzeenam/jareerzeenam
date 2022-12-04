@@ -77,11 +77,17 @@ const jareer = {
     code: ["PHP", "Javascript", "Python"],
     askMeAbout: ["Web Development", "tech", "API"],
     technologies: {
+        frontEnd: {
+            frameworks: ["Vue", "React"],
+            libraries: ["Bootstrap", "Tailwind", "Bulma"],
+        },
         backEnd: {
-            php: ["Laravel", "Symfony"],
-            js: ["Node", "Express"],
+            frameworks: {
+                php: ["Laravel", "Symfony"],
+                js: ["Node", "Express"],
+            },
             queryLanguages: ["SQL", "GraphQL"],
-            databases: ["Mongo", "MySql", "SQlite"]
+            databases: ["Mongo", "MySql", "SQlite"],
         }
     },
     architecture: ["Serverless", "Progressive Web Applications", "Single Page Applications"],
