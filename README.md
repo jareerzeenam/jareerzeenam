@@ -95,8 +95,8 @@ const jareer = {
     },
     architecture: ["Serverless", "Progressive Web Applications", "Single Page Applications"],
     currentFocus: ["Micro Services", "NodeJs", "GraphQL", "Vue3"],
+    otherSkills: ["AWS", "Docker", "Git", "WordPress", "Jquery", "Ajax", "Firebase", "Stripe", "Figma"],
     askMeAbout: ["Web Development", "API", "Tech", "Automation", "IOT", "AI"],
-    otherSkills: ["AWS", "Docker", "Git", "WordPress", "Jquery", "Ajax", "Firebase", "Stripe", "Figma"]
 };
 
 ```
