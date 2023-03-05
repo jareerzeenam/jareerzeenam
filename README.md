@@ -77,7 +77,7 @@ const jareer = {
   pronouns: 'He' | 'Him',
   workplace: {
     company: 'Gapstars.net',
-    position: 'Full Stack Developer',
+    position: 'Software Engineer',
   },
   code: ['PHP', 'Javascript', 'Python'],
   technologies: {
