@@ -3,13 +3,14 @@
 I'm a software engineer from Colombo, Sri Lanka. I create high standard softwares and robust web applications.
 
 👨‍🎓 Software Engineering Graduate from [Solent University](https://www.solent.ac.uk/courses/undergraduate/software-engineering-bsc) - (First Class)
+
 <p>
   <a href="https://www.linkedin.com/in/jareer-zeenam/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/jareerzeenam" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://twitter.com/Jareer28" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
-###  A little more about me...  
+### A little more about me...
 
 <!-- ```php
 <?php
@@ -22,8 +23,8 @@ class About extends Me
     {
         return [
             'workplace' => [
-                'company' => 'Adventus.io',
-                'position' => 'Full Stack Developer'         
+                'company' => 'Gapstars.net',
+                'position' => 'Full Stack Developer'
             ]
         ];
     }
@@ -71,32 +72,52 @@ class About extends Me
 }
 ``` -->
 
-``` js
+```js
 const jareer = {
-    pronouns: "He" | "Him",
-    workplace: {
-        company: "Adventus.io",
-        position: "Full Stack Developer",
+  pronouns: 'He' | 'Him',
+  workplace: {
+    company: 'Adventus.io',
+    position: 'Full Stack Developer',
+  },
+  code: ['PHP', 'Javascript', 'Python'],
+  technologies: {
+    frontEnd: {
+      frameworks: ['Vue', 'React'],
+      libraries: ['Bootstrap', 'Tailwind', 'Bulma'],
     },
-    code: ["PHP", "Javascript", "Python"],
-    technologies: {
-        frontEnd: {
-            frameworks: ["Vue", "React"],
-            libraries: ["Bootstrap", "Tailwind", "Bulma"],
-        },
-        backEnd: {
-            frameworks: {
-                php: ["Laravel", "Symfony"],
-                js: ["Node", "Express"],
-            },
-            queryLanguages: ["SQL", "GraphQL"],
-            databases: ["Mongo", "MySql", "SQlite"],
-        }
+    backEnd: {
+      frameworks: {
+        php: ['Laravel', 'Symfony'],
+        js: ['Node', 'Express'],
+      },
+      queryLanguages: ['SQL', 'GraphQL'],
+      databases: ['Mongo', 'MySql', 'SQlite'],
     },
-    architecture: ["Serverless", "Progressive Web Applications", "Single Page Applications"],
-    currentFocus: ["Micro Services", "NodeJs", "GraphQL", "Vue3"],
-    otherSkills: ["AWS", "Docker", "Git", "WordPress", "Jquery", "Ajax", "Firebase", "Stripe", "Figma"],
-    askMeAbout: ["Web Development", "API", "Tech", "Automation", "IOT", "AI"],
+  },
+  architecture: [
+    'Serverless',
+    'Progressive Web Applications',
+    'Single Page Applications',
+  ],
+  currentFocus: ['Micro Services', 'NodeJs', 'GraphQL', 'Vue3'],
+  otherSkills: [
+    'AWS',
+    'Docker',
+    'Git',
+    'WordPress',
+    'Jquery',
+    'Ajax',
+    'Firebase',
+    'Stripe',
+    'Figma',
+  ],
+  askMeAbout: [
+    'Web Development',
+    'API',
+    'Tech',
+    'Automation',
+    'IOT',
+    'AI',
+  ],
 };
-
 ```
