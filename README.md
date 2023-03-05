@@ -76,7 +76,7 @@ class About extends Me
 const jareer = {
   pronouns: 'He' | 'Him',
   workplace: {
-    company: 'Adventus.io',
+    company: 'Gapstars.net',
     position: 'Full Stack Developer',
   },
   code: ['PHP', 'Javascript', 'Python'],
