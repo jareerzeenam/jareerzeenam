@@ -99,35 +99,9 @@ const jareer = {
     'Progressive Web Applications',
     'Single Page Applications',
   ],
-  currentFocus: [
-    'Micro Services',
-    'NodeJs',
-    'GraphQL',
-    'Next.js',
-    'React.js',
-    'Vue3',
-    'Laravel',
-  ],
-  otherSkills: [
-    'Git',
-    'Stripe',
-    'WordPress',
-    'AWS',
-    'Docker',
-    'Jquery',
-    'Ajax',
-    'Firebase',
-    'Figma',
-    'Photoshop',
-  ],
-  askMeAbout: [
-    'Web Development',
-    'API',
-    'Tech',
-    'Automation',
-    'IOT',
-    'AI',
-  ],
+  currentFocus: [ 'Micro Services', 'NodeJs', 'GraphQL', 'Next.js', 'React.js', 'Vue3', 'Laravel' ],
+  otherSkills: [ 'Git', 'Stripe', 'WordPress', 'AWS', 'Docker', 'Jquery', 'Ajax', 'Firebase', 'Figma', 'Photoshop' ],
+  askMeAbout: [ 'Web Development', 'API', 'Tech', 'Automation', 'IOT', 'AI' ],
 };
 
 ```
