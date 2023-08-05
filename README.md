@@ -99,7 +99,15 @@ const jareer = {
     'Progressive Web Applications',
     'Single Page Applications',
   ],
-  currentFocus: ['Micro Services', 'NodeJs', 'GraphQL', 'Next.js', 'React.js', 'Vue3', 'Laravel'],
+  currentFocus: [
+    'Micro Services',
+    'NodeJs',
+    'GraphQL',
+    'Next.js',
+    'React.js',
+    'Vue3',
+    'Laravel',
+  ],
   otherSkills: [
     'Git',
     'Stripe',
@@ -120,5 +128,22 @@ const jareer = {
     'IOT',
     'AI',
   ],
+  projects: [
+    {
+      name: 'GraphQL Blog',
+      description: 'A web app built with Node.js, GraphQL and Vue.js',
+      link: '[Backend](https://github.com/jareerzeenam/graphql-blog)',
+    },
+    {
+      name: 'Project B',
+      description: 'An e-commerce site powered by Vue.js and Laravel',
+      link: 'https://github.com/yourusername/projectB',
+    },
+  ],
+  education: 'Bachelor of Computer Science',
+  certifications: ['AWS Certified Developer', 'Google Cloud Engineer'],
+  twitter: 'https://twitter.com/yourusername',
+  linkedin: 'https://www.linkedin.com/in/yourusername',
 };
+
 ```
