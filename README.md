@@ -132,7 +132,7 @@ const jareer = {
     {
       name: 'GraphQL Blog',
       description: 'A web app built with Node.js, GraphQL and Vue.js',
-      link: '[Backend](https://github.com/jareerzeenam/graphql-blog)',
+      link: [Backend](https://github.com/jareerzeenam/graphql-blog),
     },
     {
       name: 'Project B',
