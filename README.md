@@ -128,22 +128,9 @@ const jareer = {
     'IOT',
     'AI',
   ],
-  projects: [
-    {
-      name: 'GraphQL Blog',
-      description: 'A web app built with Node.js, GraphQL and Vue.js',
-      link: [Backend](https://github.com/jareerzeenam/graphql-blog),
-    },
-    {
-      name: 'Project B',
-      description: 'An e-commerce site powered by Vue.js and Laravel',
-      link: 'https://github.com/yourusername/projectB',
-    },
-  ],
-  education: 'Bachelor of Computer Science',
-  certifications: ['AWS Certified Developer', 'Google Cloud Engineer'],
-  twitter: 'https://twitter.com/yourusername',
-  linkedin: 'https://www.linkedin.com/in/yourusername',
+  education: 'Bachelor of Science Software Engineering (first class)',
+  twitter: '[https://twitter.com/yourusername](https://twitter.com/Jareer28)',
+  linkedin: '[https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/jareer-zeenam/)https://www.linkedin.com/in/jareer-zeenam/',
 };
 
 ```
