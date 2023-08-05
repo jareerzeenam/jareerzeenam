@@ -128,7 +128,7 @@ const jareer = {
     'IOT',
     'AI',
   ],
-  education: 'Bachelor of Science Software Engineering (first class)',
+  education: 'Bachelor of Science - Software Engineering (first class)',
   twitter: 'Jareer28',
   linkedin: 'jareer-zeenam',
 };
