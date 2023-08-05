@@ -1,6 +1,6 @@
 # Hey, I'm Jareer <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
 
-I'm a software engineer from Colombo, Sri Lanka. I create high standard softwares and robust web applications.
+I'm a skilled software engineer from Colombo, Sri Lanka, dedicated to creating high-quality software and robust web applications. With a focus on excellence and a passion for turning ideas into reality, I specialize in crafting seamless user experiences and building scalable solutions. Let's collaborate and build something extraordinary together!
 
 👨‍🎓 Software Engineering Graduate from [Solent University](https://www.solent.ac.uk/courses/undergraduate/software-engineering-bsc) - (First Class)
 
