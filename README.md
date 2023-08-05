@@ -129,8 +129,8 @@ const jareer = {
     'AI',
   ],
   education: 'Bachelor of Science Software Engineering (first class)',
-  twitter: [https://twitter.com/yourusername](https://twitter.com/Jareer28),
-  linkedin: [https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/jareer-zeenam/)https://www.linkedin.com/in/jareer-zeenam/),
+  twitter: 'Jareer28',
+  linkedin: 'jareer-zeenam',
 };
 
 ```
