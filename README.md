@@ -4,6 +4,8 @@ I'm a skilled software engineer from London,UK, dedicated to creating high-quali
 
 👨‍🎓 Software Engineering Graduate from [Solent University](https://www.solent.ac.uk/courses/undergraduate/software-engineering-bsc) - (First Class)
 
+📚 Currently pursuing my Masters (MSc) in Artificial Intelligence and Data Science at [University of East London](https://uel.ac.uk/postgraduate/courses/msc-ai-data-science)
+
 <p>
   <a href="https://www.linkedin.com/in/jareer-zeenam/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/jareerzeenam" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
@@ -75,11 +77,12 @@ class About extends Me
 ```js
 const jareer = {
   pronouns: 'He' | 'Him',
-  workplace: {
+  lastWorkplace: {
     company: 'Gapstars.net',
     position: 'Software Engineer',
   },
   code: ['PHP', 'Javascript', 'Python'],
+  techStacks: ['LAMP', 'TALL', 'MERN', 'MERNG'],
   technologies: {
     frontEnd: {
       frameworks: ['Vue', 'React'],
@@ -99,7 +102,7 @@ const jareer = {
     'Progressive Web Applications',
     'Single Page Applications',
   ],
-  currentFocus: ['Micro Services', 'NodeJs', 'GraphQL', 'Next.js', 'React.js', 'Vue3', 'Laravel'],
+  currentFocus: ['Micro Services', 'NodeJs', 'GraphQL', 'Next.js', 'React.js', 'Vue3', 'Laravel', 'LiveWire', 'Filament'],
   otherSkills: [
     'Git',
     'Stripe',
