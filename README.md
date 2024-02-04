@@ -24,9 +24,6 @@ I'm a skilled software engineer from London,UK, dedicated to creating high-quali
   </tr>
 </table>
 
-## 📚 My Latest Articles
-
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jareerzeenam)
 
 ## Tech Stack
 ### Programming Languages
@@ -114,6 +111,10 @@ I'm a skilled software engineer from London,UK, dedicated to creating high-quali
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![LiveWire](https://img.shields.io/badge/-LiveWire-FF1985?style=flat&logo=laravel&logoColor=white)
 ![Filament](https://img.shields.io/badge/-Filament-FF9A00?style=flat&logo=laravel&logoColor=white)
+
+## 📚 My Latest Articles
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jareerzeenam)
 
 
 ## Let's Connect
