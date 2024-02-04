@@ -12,6 +12,17 @@ I'm a skilled software engineer from London,UK, dedicated to creating high-quali
   <a href="https://twitter.com/Jareer28" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
+<table>
+  <tr>
+   <td valign="top">
+     <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=jareerzeenam&layout=compact&theme=github_dark&bg_color=0d1117&v=2&langs_count=10"/>
+    </td>
+    <td valign="top">
+      <img align=top src="https://github-readme-stats.vercel.app/api?username=jareerzeenam&show_icons=true&theme=github_dark&bg_color=0d1117&v=2"/>
+    </td>
+  </tr>
+</table>
+
 ### A little more about me...
 
 <!-- ```php
