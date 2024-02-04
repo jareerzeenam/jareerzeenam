@@ -12,129 +12,102 @@ I'm a skilled software engineer from London,UK, dedicated to creating high-quali
   <a href="https://twitter.com/Jareer28" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
-<table style="width: 100%; border-collapse: collapse;">
+<table>
   <tr>
-    <td style="vertical-align: top; border: none;">
-      <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=jareerzeenam&layout=compact&theme=github_dark&bg_color=0d1117&v=2&langs_count=10"/>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jareerzeenam&layout=compact&theme=github_dark&bg_color=0d1117&v=2&langs_count=10"/>
     </td>
-    <td style="vertical-align: top; border: none;">
-      <img align=top src="https://github-readme-stats.vercel.app/api?username=jareerzeenam&rank_icon=github&show_icons=true&theme=github_dark&bg_color=0d1117&v=2&hide=issues&show=prs_merged,prs_merged_percentage"/>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=jareerzeenam&rank_icon=github&show_icons=true&theme=github_dark&bg_color=0d1117&v=2&hide=issues&show=prs_merged,prs_merged_percentage"/>
     </td>
   </tr>
 </table>
 
-### A little more about me...
+## About Me
+- Pronouns: He/Him
+- Former Software Engineer at [Gapstars.net](https://www.gapstars.net/)
+- Current Focus: Micro Services, NodeJs, GraphQL, Next.js, React.js, Vue3, Laravel, LiveWire, Filament
 
-<!-- ```php
-<?php
+## Tech Stack
+### Programming Languages
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
-namespace Jareer;
 
-class About extends Me
-{
-    public function getCurrentWorkplace(): array
-    {
-        return [
-            'workplace' => [
-                'company' => 'Gapstars.net',
-                'position' => 'Full Stack Developer'
-            ]
-        ];
-    }
+### Tech Stacks
+![LAMP](https://img.shields.io/badge/-LAMP-FCC624?style=flat)
+![TALL](https://img.shields.io/badge/-TALL-61DAFB?style=flat)
+![MERNG](https://img.shields.io/badge/-MERNG-E10098?style=flat)
+![MERN](https://img.shields.io/badge/-MERN-61DAFB?style=flat)
 
-    public function getDailySkills(): array
-    {
-        return [
-            Php::class,
-            Laravel::class,
-            Vuejs::class,
-            JavaScript::class,
-            Nodejs::class,
-            GraphQl::class,
-            MySql::class,
-            MongoDB::class,
-            Bootstrap::class,
-            TailwindCss::class,
-            Sass::class,
-        ];
-    }
+### Frontend
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
-    public function getOtherSkills(): array
-    {
-        return [
-            Git::class,
-            Docker::class,
-            WordPress::class,
-            Jquery::class,
-            Ajax::class,
-            Serverless::class,
-            Firebase::class,
-            Stripe::class,
-            Python::class,
-            Aws::class,
-            Figma::class,
-            PhotoShop::class,
-            Illustrator::class,
-        ];
-    }
 
-    public function getFutureGoal(): string
-    {
-        return 'To be a Software Solution Architect.';
-    }
-}
-``` -->
+### Backend
+#### PHP
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=white)
+#### JavaScript
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 
-```js
-const jareer = {
-  pronouns: 'He' | 'Him',
-  lastWorkplace: {
-    company: 'Gapstars.net',
-    position: 'Software Engineer',
-  },
-  code: ['PHP', 'Javascript', 'Python'],
-  techStacks: ['LAMP', 'TALL', 'MERN', 'MERNG'],
-  technologies: {
-    frontEnd: {
-      frameworks: ['Vue', 'React'],
-      libraries: ['Bootstrap', 'Tailwind', 'Bulma'],
-    },
-    backEnd: {
-      frameworks: {
-        php: ['Laravel', 'Symfony'],
-        js: ['Node', 'Express'],
-      },
-      queryLanguages: ['SQL', 'GraphQL'],
-      databases: ['Mongo', 'MySql', 'SQlite'],
-    },
-  },
-  architecture: [
-    'Serverless',
-    'Progressive Web Applications',
-    'Single Page Applications',
-  ],
-  currentFocus: ['Micro Services', 'NodeJs', 'GraphQL', 'Next.js', 'React.js', 'Vue3', 'Laravel', 'LiveWire', 'Filament'],
-  otherSkills: [
-    'Git',
-    'Stripe',
-    'WordPress',
-    'AWS',
-    'Docker',
-    'Jquery',
-    'Ajax',
-    'Firebase',
-    'Figma',
-    'Photoshop',
-  ],
-  askMeAbout: [
-    'Software Engineering',
-    'Web Development',
-    'API',
-    'Tech',
-    'Automation',
-    'IOT',
-    'AI',
-  ],
-};
+#### Python
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 
-```
+
+### Query Languages
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
+
+
+### Frontend Libraries & Frameworks
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Material CSS](https://img.shields.io/badge/-Material_CSS-2196F3?style=flat&logo=material-design&logoColor=white)
+![Bulma](https://img.shields.io/badge/-Bulma-00D1B2?style=flat&logo=bulma&logoColor=white)
+
+### Laravel Ecosystems
+![Filament](https://img.shields.io/badge/-Filament-FF9A00?style=flat&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/-Livewire-FF1985?style=flat&logo=laravel&logoColor=white)
+![Inertia](https://img.shields.io/badge/-Inertia-7952B3?style=flat&logo=laravel&logoColor=white)
+![Jetstream](https://img.shields.io/badge/-Jetstream-8A3391?style=flat&logo=laravel&logoColor=white)
+![Breeze](https://img.shields.io/badge/-Breeze-FEC111?style=flat&logo=laravel&logoColor=white)
+![Forge](https://img.shields.io/badge/-Forge-0B996E?style=flat&logo=laravel&logoColor=white)
+![Cashier](https://img.shields.io/badge/-Cashier-88CE02?style=flat&logo=laravel&logoColor=white)
+![Horizon](https://img.shields.io/badge/-Horizon-844FBA?style=flat&logo=laravel&logoColor=white)
+### Architecture
+![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat&logo=serverless&logoColor=white)
+![Microservices](https://img.shields.io/badge/-Microservices-47A248?style=flat&logo=microservices&logoColor=white)
+
+
+### Other Skills
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/-Amazon_S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
+![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat&logo=stripe&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![Ajax](https://img.shields.io/badge/-Ajax-0769AD?style=flat&logo=ajax&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
+
+## Let's Connect
+- Ask me about: Software Engineering, Web Development, API, Tech, Automation, IoT, AI
