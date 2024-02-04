@@ -7,9 +7,10 @@ I'm a skilled software engineer from London,UK, dedicated to creating high-quali
 📚 Currently pursuing my Masters (MSc) in Artificial Intelligence and Data Science at [University of East London](https://uel.ac.uk/postgraduate/courses/msc-ai-data-science)
 
 <p>
-  <a href="https://www.linkedin.com/in/jareer-zeenam/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/jareerzeenam" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <a href="https://twitter.com/Jareer28" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jareer-zeenam/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://medium.com/@jareerzeenam" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://twitter.com/Jareer28" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://github.com/jareerzeenam" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>
 </p>
 
 <table>
@@ -23,10 +24,9 @@ I'm a skilled software engineer from London,UK, dedicated to creating high-quali
   </tr>
 </table>
 
-## About Me
-- Pronouns: He/Him
-- Former Software Engineer at [Gapstars.net](https://www.gapstars.net/)
-- Current Focus: Micro Services, NodeJs, GraphQL, Next.js, React.js, Vue3, Laravel, LiveWire, Filament
+## 📚 My Latest Articles
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jareerzeenam)
 
 ## Tech Stack
 ### Programming Languages
@@ -42,27 +42,18 @@ I'm a skilled software engineer from London,UK, dedicated to creating high-quali
 ![MERNG](https://img.shields.io/badge/-MERNG-E10098?style=flat)
 ![MERN](https://img.shields.io/badge/-MERN-61DAFB?style=flat)
 
+
+### Backend
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+
 ### Frontend
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-
-
-### Backend
-#### PHP
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=white)
-#### JavaScript
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-
-#### Python
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-
-
-### Query Languages
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -70,12 +61,15 @@ I'm a skilled software engineer from London,UK, dedicated to creating high-quali
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
 
-
 ### Frontend Libraries & Frameworks
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Material CSS](https://img.shields.io/badge/-Material_CSS-2196F3?style=flat&logo=material-design&logoColor=white)
 ![Bulma](https://img.shields.io/badge/-Bulma-00D1B2?style=flat&logo=bulma&logoColor=white)
+
+### Query Languages
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 
 ### Laravel Ecosystems
 ![Filament](https://img.shields.io/badge/-Filament-FF9A00?style=flat&logo=laravel&logoColor=white)
@@ -108,6 +102,19 @@ I'm a skilled software engineer from London,UK, dedicated to creating high-quali
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
+
+### Current Focus
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![Apollo GraphQL](https://img.shields.io/badge/-Apollo_GraphQL-311C87?style=flat&logo=apollo-graphql&logoColor=white)
+![Microservices](https://img.shields.io/badge/-Microservices-47A248?style=flat&logo=microservices&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=white)
+![Vue3](https://img.shields.io/badge/-Vue3-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![LiveWire](https://img.shields.io/badge/-LiveWire-FF1985?style=flat&logo=laravel&logoColor=white)
+![Filament](https://img.shields.io/badge/-Filament-FF9A00?style=flat&logo=laravel&logoColor=white)
+
 
 ## Let's Connect
 - Ask me about: Software Engineering, Web Development, API, Tech, Automation, IoT, AI
