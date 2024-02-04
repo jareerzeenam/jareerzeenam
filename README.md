@@ -22,6 +22,8 @@ I'm a skilled software engineer from London,UK, dedicated to creating high-quali
     </td>
   </tr>
 </table>
+<img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=jareerzeenam&layout=compact&theme=github_dark&bg_color=0d1117&v=2&langs_count=10"/>
+ <img align=top src="https://github-readme-stats.vercel.app/api?username=jareerzeenam&show_icons=true&theme=github_dark&bg_color=0d1117&v=2"/>
 
 ### A little more about me...
 
