@@ -18,7 +18,7 @@ I'm a skilled software engineer from London,UK, dedicated to creating high-quali
       <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=jareerzeenam&layout=compact&theme=github_dark&bg_color=0d1117&v=2&langs_count=10"/>
     </td>
     <td style="vertical-align: top; border: none;">
-      <img align=top src="https://github-readme-stats.vercel.app/api?username=jareerzeenam&rank_icon=github&show_icons=true&theme=github_dark&bg_color=0d1117&v=2"/>
+      <img align=top src="https://github-readme-stats.vercel.app/api?username=jareerzeenam&rank_icon=github&show_icons=true&theme=github_dark&bg_color=0d1117&v=2&hide=issues"/>
     </td>
   </tr>
 </table>
