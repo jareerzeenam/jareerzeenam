@@ -110,11 +110,11 @@ I'm a skilled software engineer from London,UK, dedicated to creating high-quali
 ![Vue3](https://img.shields.io/badge/-Vue3-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![LiveWire](https://img.shields.io/badge/-LiveWire-FF1985?style=flat&logo=laravel&logoColor=white)
-![Filament](https://img.shields.io/badge/-Filament-FF9A00?style=flat&logo=laravel&logoColor=white)
+[![Filament](https://img.shields.io/badge/-Filament-FF9A00?style=flat&logo=laravel&logoColor=white)](/#!)
 
 ## 📚 My Latest Articles
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jareerzeenam)
+[![Medium](https://img.shields.io/badge/My_Medium_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jareerzeenam)
 
 
 ## Let's Connect
