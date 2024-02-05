@@ -40,14 +40,14 @@ I'm a skilled software engineer from London,UK, dedicated to creating high-quali
 ![MERN](https://img.shields.io/badge/-MERN-61DAFB?style=flat)
 
 
-### Backend
+### Backend Frameworks
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 
-### Frontend
+### Frontend Frameworks
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
@@ -77,6 +77,7 @@ I'm a skilled software engineer from London,UK, dedicated to creating high-quali
 ![Forge](https://img.shields.io/badge/-Forge-0B996E?style=flat&logo=laravel&logoColor=white)
 ![Cashier](https://img.shields.io/badge/-Cashier-88CE02?style=flat&logo=laravel&logoColor=white)
 ![Horizon](https://img.shields.io/badge/-Horizon-844FBA?style=flat&logo=laravel&logoColor=white)
+
 ### Architecture
 ![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat&logo=serverless&logoColor=white)
 ![Microservices](https://img.shields.io/badge/-Microservices-47A248?style=flat&logo=microservices&logoColor=white)
