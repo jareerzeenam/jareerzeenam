@@ -98,9 +98,11 @@ I'm a skilled software engineer from London,UK, dedicated to creating high-quali
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
 
 
 ### Other Skills
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/-Amazon_S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
 ![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat&logo=stripe&logoColor=white)
@@ -131,6 +133,8 @@ I'm a skilled software engineer from London,UK, dedicated to creating high-quali
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![LiveWire](https://img.shields.io/badge/-LiveWire-FF1985?style=flat&logo=laravel&logoColor=white)
 [![Filament](https://img.shields.io/badge/-Filament-FF9A00?style=flat&logo=laravel&logoColor=white)](/#!)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat&logo=serverless&logoColor=white)
 
 ## 📚 My Latest Articles
 
