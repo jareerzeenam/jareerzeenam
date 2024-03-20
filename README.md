@@ -59,6 +59,11 @@ I'm a skilled software engineer from London,UK, dedicated to creating high-quali
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
 
+### Unit Testing
+![PHPUnit](https://img.shields.io/badge/-PHPUnit-777BB4?style=flat&logo=php&logoColor=white)
+![Pest](https://img.shields.io/badge/-Pest-8A3391?style=flat&logo=pest&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
+
 ### Frontend Libraries & Frameworks
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
@@ -103,8 +108,10 @@ I'm a skilled software engineer from London,UK, dedicated to creating high-quali
 
 ### Other Skills
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Pinia](https://img.shields.io/badge/-Pinia-FFCA28?style=flat&logo=pinapple&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/-Amazon_S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
 ![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat&logo=stripe&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
@@ -121,6 +128,7 @@ I'm a skilled software engineer from London,UK, dedicated to creating high-quali
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI/CD-FFCA28?style=flat&logo=ci/cd&logoColor=white)
 
 ### Current Focus
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
@@ -142,4 +150,4 @@ I'm a skilled software engineer from London,UK, dedicated to creating high-quali
 
 
 ## Let's Connect
-- Ask me about: Software Engineering, Web Development, API, Tech, Automation, IoT, AI
+- Ask me about: Software Engineering, Web Development, API, Unit Testing, Tech, Microservices, IoT, AI
