@@ -6,7 +6,6 @@ I'm a skilled software engineer from London,UK, dedicated to creating high-quali
 
 📚 Currently pursuing my Masters (MSc) in Artificial Intelligence and Data Science at [University of East London](https://uel.ac.uk/postgraduate/courses/msc-ai-data-science)
 
-## 🤝🏻 Let's Connect
 <p>
   <a href="https://www.linkedin.com/in/jareer-zeenam/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://medium.com/@jareerzeenam" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
@@ -26,7 +25,7 @@ I'm a skilled software engineer from London,UK, dedicated to creating high-quali
 </table>
 
 
-## 🛠️ Tech Stack
+## 🛠️ Tech
 ### Programming Languages
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -34,14 +33,14 @@ I'm a skilled software engineer from London,UK, dedicated to creating high-quali
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
 
-### Tech Stacks
+### 📚 Tech Stacks
 ![LAMP](https://img.shields.io/badge/-LAMP-FCC624?style=flat)
 ![TALL](https://img.shields.io/badge/-TALL-61DAFB?style=flat)
 ![MERNG](https://img.shields.io/badge/-MERNG-E10098?style=flat)
 ![MERN](https://img.shields.io/badge/-MERN-61DAFB?style=flat)
 
 
-### Backend Frameworks
+### 🧱 Backend Frameworks
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -49,18 +48,18 @@ I'm a skilled software engineer from London,UK, dedicated to creating high-quali
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
-### Frontend Frameworks
+### 🖼 Frontend Frameworks
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
-### Databases
+### 💾 Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
 
-### Unit Testing
+### 🔬 Unit Testing
 ![PHPUnit](https://img.shields.io/badge/-PHPUnit-777BB4?style=flat&logo=php&logoColor=white)
 ![Pest](https://img.shields.io/badge/-Pest-8A3391?style=flat&logo=pest&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
@@ -85,18 +84,18 @@ I'm a skilled software engineer from London,UK, dedicated to creating high-quali
 ![Cashier](https://img.shields.io/badge/-Cashier-88CE02?style=flat&logo=laravel&logoColor=white)
 ![Horizon](https://img.shields.io/badge/-Horizon-844FBA?style=flat&logo=laravel&logoColor=white)
 
-### Architecture
+### 📈 Architecture
 ![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat&logo=serverless&logoColor=white)
 ![Microservices](https://img.shields.io/badge/-Microservices-47A248?style=flat&logo=microservices&logoColor=white)
 
 
-### Platforms
+### ⚖️ Platforms
 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-0077B5?style=flat&logo=tableau&logoColor=white)
 
-### Data Science Libraries
+### 🕵🏼‍♀️ Data Science Libraries
 
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/-Numpy-013243?style=flat&logo=numpy&logoColor=white)
@@ -131,7 +130,7 @@ I'm a skilled software engineer from London,UK, dedicated to creating high-quali
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI/CD-FFCA28?style=flat&logo=ci/cd&logoColor=white)
 
-### Current Focus
+### 🔍 Current Focus
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo_GraphQL-311C87?style=flat&logo=apollo-graphql&logoColor=white)
 ![Microservices](https://img.shields.io/badge/-Microservices-47A248?style=flat&logo=microservices&logoColor=white)
@@ -150,5 +149,5 @@ I'm a skilled software engineer from London,UK, dedicated to creating high-quali
 [![Medium](https://img.shields.io/badge/My_Medium_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jareerzeenam)
 
 
-## Let's Connect
-- Ask me about: Software Engineering, Web Development, API, Unit Testing, Tech, Microservices, IoT, AI
+## 🤝🏻 Let's Connect
+- Ask me about: Software Engineering, Web Development, Microservices, API, Unit Testing, Tech, AI, Data Science, Machine Learning, IoT 
