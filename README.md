@@ -6,6 +6,7 @@ I'm a skilled software engineer from London,UK, dedicated to creating high-quali
 
 📚 Currently pursuing my Masters (MSc) in Artificial Intelligence and Data Science at [University of East London](https://uel.ac.uk/postgraduate/courses/msc-ai-data-science)
 
+## 🤝🏻 Let's Connect
 <p>
   <a href="https://www.linkedin.com/in/jareer-zeenam/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://medium.com/@jareerzeenam" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
@@ -25,7 +26,7 @@ I'm a skilled software engineer from London,UK, dedicated to creating high-quali
 </table>
 
 
-## Tech Stack
+## 🛠️ Tech Stack
 ### Programming Languages
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
