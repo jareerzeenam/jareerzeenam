@@ -1,16 +1,18 @@
 # Hey, I'm Jareer <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
 
-I'm a experienced Software Engineer from London,UK, dedicated to creating high-quality software and robust web applications. With a focus on excellence and a passion for turning ideas into reality, I specialize in crafting seamless user experiences and building scalable solutions. Let's collaborate and build something extraordinary together!
-
-👨‍🎓 Software Engineering Graduate from [Solent University](https://www.solent.ac.uk/courses/undergraduate/software-engineering-bsc) - (First Class)
+I'm a Software Engineer based in London, UK, with 4 years of industry experience. I specialize in developing high-quality software and building scalable web applications that deliver seamless user experiences. My expertise spans the full software development lifecycle, with a focus on delivering robust and maintainable solutions. I’m passionate about transforming innovative ideas into practical applications, constantly learning new technologies, and taking on challenges that drive innovation. Let's connect and make a lasting impact through technology!
 
 📚 Masters (MSc) in Artificial Intelligence and Data Science at [University of East London](https://uel.ac.uk/postgraduate/courses/msc-ai-data-science)
+
+👨‍🎓 Software Engineering Graduate from [Solent University](https://www.solent.ac.uk/courses/undergraduate/software-engineering-bsc) - (First Class)
 
 <p>
   <a href="https://www.linkedin.com/in/jareer-zeenam/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://medium.com/@jareerzeenam" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
   <a href="https://twitter.com/Jareer28" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://github.com/jareerzeenam" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>
+  <a href="http://jareer.me/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-12100E?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/></a>
+  
 </p>
 
 <table>
@@ -144,7 +146,7 @@ I'm a experienced Software Engineer from London,UK, dedicated to creating high-q
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat&logo=serverless&logoColor=white)
 
-## 📚 My Latest Articles
+## 📚 Read My Latest Articles
 
 [![Medium](https://img.shields.io/badge/My_Medium_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jareerzeenam)
 
