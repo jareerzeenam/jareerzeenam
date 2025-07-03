@@ -1,10 +1,10 @@
 # Hey, I'm Jareer <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
 
-I'm a Software Engineer based in London, UK, with 4 years of industry experience. I specialize in developing high-quality software and building scalable web applications that deliver seamless user experiences. My expertise spans the full software development lifecycle, with a focus on delivering robust and maintainable solutions. I’m passionate about transforming innovative ideas into practical applications, constantly learning new technologies, and taking on challenges that drive innovation. Let's connect and make a lasting impact through technology!
+I'm a Software Engineer based in London, UK, with 5 years of industry experience. I specialize in developing high-quality software and building scalable web applications that deliver seamless user experiences. My expertise spans the full software development lifecycle, with a focus on delivering robust and maintainable solutions. I’m passionate about transforming innovative ideas into practical applications, constantly learning new technologies, and taking on challenges that drive innovation. Let's connect and make a lasting impact through technology!
 
-📚 Masters (MSc) in Artificial Intelligence and Data Science at [University of East London](https://uel.ac.uk/postgraduate/courses/msc-ai-data-science)
+📚 Masters (MSc) in Artificial Intelligence and Data Science at [University of East London](https://uel.ac.uk/postgraduate/courses/msc-ai-data-science) - (Distinction) ✅
 
-👨‍🎓 Software Engineering Graduate from [Solent University](https://www.solent.ac.uk/courses/undergraduate/software-engineering-bsc) - (First Class)
+👨‍🎓 Software Engineering Graduate from [Solent University](https://www.solent.ac.uk/courses/undergraduate/software-engineering-bsc) - (First Class) ✅
 
 <p>
   <a href="https://www.linkedin.com/in/jareer-zeenam/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
